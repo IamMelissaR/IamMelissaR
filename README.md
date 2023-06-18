@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IamMelissaR
-- 👀 I’m interested in Data Analytics foremost, but have a wide range of interests outside of DA.
-- 🌱 I’m currently learning SQL and will be learning Tableau soon enough.
-- 💞️ I’m looking to collaborate on something fun, but I don't have an idea what that is yet. I'm quite new here.
+- 👀 I’m interested in Web Development foremost, but have a wide range of interests outside of web dev.
+- 🌱 I’m currently learning the HTML/CSS/JS fundamentals and plan to grow those skills into a career.
+- 💞️ I’m looking to collaborate on something fun, but I don't have an idea what that is yet. I'm still new here.
 - 📫 My email is melissa.a.reiss@gmail.com
 
 <!---
